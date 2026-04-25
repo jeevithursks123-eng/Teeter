@@ -1,4 +1,4 @@
-Teeter (HTC Classic) – Android APK
+# Teeter (HTC Classic) – Android APK
 
 A recreation of the classic Teeter game originally found on HTC devices like the Touch Diamond.
 This version preserves the original gameplay, levels, and physics for a nostalgic experience on modern Android devices.

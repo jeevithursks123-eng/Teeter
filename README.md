@@ -48,16 +48,16 @@ The objective is simple: reach the goal without falling into holes.
 
 ---
 
-🙌 Credits
+# 🙌 Credits
 
 - Original game: HTC Corporation
 - Recreation: Community effort
 
 ---
 
-📜 Disclaimer
+# 📜 Disclaimer
 
-This project is not affiliated with HTC.
+This project is not affiliated with # HTC.
 All rights to the original game belong to their respective owners.
 
 ---

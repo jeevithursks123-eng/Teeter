@@ -3,25 +3,24 @@
 A recreation of the classic Teeter game originally found on HTC devices like the Touch Diamond.
 This version preserves the original gameplay, levels, and physics for a nostalgic experience on modern Android devices.
 
----
-
-🎮 About the Game
+--- 
+# 🎮 About the Game
 
 Teeter is a tilt-based maze game where you guide a metal ball through obstacles by tilting your device.
 The objective is simple: reach the goal without falling into holes.
 
 ---
 
-✨ Features
+# ✨ Features
 
 - Original level design (same as classic HTC version)
-- Physics-based tilt controls
+- Physics-based tilt control
 - Lightweight and offline
 - No ads, no distractions — just pure gameplay
 
 ---
 
-📦 Installation
+# 📦 Installation
 
 1. Download the APK from this repository
 2. On your Android device:
@@ -31,7 +30,7 @@ The objective is simple: reach the goal without falling into holes.
 
 ---
 
-📱 Compatibility
+# 📱 Compatibility
 
 - Designed to run on modern Android devices
 - Works best on devices with:
@@ -40,7 +39,7 @@ The objective is simple: reach the goal without falling into holes.
 
 ---
 
-⚠️ Notes
+# ⚠️ Notes
 
 - Some devices may experience:
   - Minor scaling differences
